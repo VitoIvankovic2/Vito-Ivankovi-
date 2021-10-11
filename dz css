@@ -1,0 +1,65 @@
+body {
+        background-image:url("https://wallpapercave.com/wp/wp6912781.jpg");
+        background-repeat: no repeat;
+        background-position: center;
+        background-attachment: fixed;
+        background-size: cover;
+        -webkit-background-size: cover;
+        -moz-background-size: cover;
+        -o-background-size: cover;
+         text-align: center;
+};
+
+
+#godine {
+
+        border: 10px solid;
+        border-color: pink;
+        font-size:33px;
+        font-weight: bold;
+}
+
+.posao {
+        text-decoration: underline;
+        border: 5px solid;
+        color:brown;
+}
+
+.hobby {
+    color: green;
+    font-size: 44px;
+    margin: 11px;
+    text-decoration: underline;
+    padding: 0.25rem 0.5rem;
+    white-space: nowrap;
+    font-family: system-ui, sans-serif;
+}
+
+.educ {
+    width: 240px;
+    height: 20px;
+    border-radius: 20px;
+    background: #B9F7E7;
+    text-color: #33FFCA;
+    text-align: center;
+}
+
+.city {
+    background-color: yellow;
+    margin-left: 30px;
+    text-align: center;
+}
+
+.naslov {
+        font-family: ink free;
+        color: red;
+        font-size:110px;
+        text-align: center;
+}
+
+.name {
+    font-family: Rockwell;
+        margin-left:50px;
+        color:yellow;
+}
+
