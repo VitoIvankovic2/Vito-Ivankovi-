@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>FakeBook</title>
+        <link rel="stylesheet" href="css/styles.css">
+    </head>
+
+    <body>
+
+        <h1 class="naslov">
+            <i>Fakebook</i>
+        </h1>
+
+        Search: <input class="sada" type="text" placeholder="Search By Name">
+
+        <H2 class="name">Liones Messi</H2>
+
+        <img src="messi.jpg" alt="">
+        <br>
+        <br>
+
+        <button>Add Friend</button>
+
+        <p class="city"><strong>City:</strong>Paris</p>
+        <p id="godine"><strong>Age:</strong>36</p>
+        <p class="educ"><strong>Education:</strong>Waiter</p>
+        <p class="posao"><strong>Job:</strong>Professiona Footballer</p>
+        <p class="hobby"><Strong>Hobby:</Strong>Running</p>
+        <p><strong>FB Friends:</strong>22</p>
+        <p><strong>FB Enemyes:</strong>0</p>
+
+
+    </body>
+</html>
